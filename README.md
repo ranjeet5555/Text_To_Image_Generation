@@ -163,20 +163,20 @@ text-to-image/
 ---
 
 ## 🌟 Dependencies List
--**Python >= 3.8** — To run the project
--**torch** — For deep learning and model processing
--**diffusers==0.25.0** — To use Stable Diffusion models
--**transformers** — Helps load and manage models
--**accelerate** — Makes the model run faster
--**matplotlib** — To display the generated images
+- **Python >= 3.8** — To run the project
+- **torch** — For deep learning and model processing
+- **diffusers==0.25.0** — To use Stable Diffusion models
+- **transformers** — Helps load and manage models
+- **accelerate** — Makes the model run faster
+- **matplotlib** — To display the generated images
 
 ---
 
 ## 📋 How to Use
-1.-**Prompt Entry**: Run the script and enter your custom text prompt.
-2.-**Image Generation**: The model will generate an image based on your input.
-3.-**Visualization**: The image will be displayed using matplotlib.
-4.-**Optional Saving**: Modify the script to save images to generated_images/ directory.
+- **Prompt Entry**: Run the script and enter your custom text prompt.
+- **Image Generation**: The model will generate an image based on your input.
+- **Visualization**: The image will be displayed using matplotlib.
+- **Optional Saving**: Modify the script to save images to generated_images/ directory.
 
 ---
 
