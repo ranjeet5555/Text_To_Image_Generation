@@ -49,7 +49,7 @@ Follow these steps to set up and run the project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/text-to-image-stable-diffusion.git
+git clone https://github.com/ranjeet5555/text-to-image-stable-diffusion.git
 cd text-to-image-stable-diffusion
 ```
 
@@ -86,7 +86,7 @@ We can run the Text-to-Image Generation script either **locally** or on **Google
 Follow these steps to run the project on your local machine:
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/text-to-image-stable-diffusion.git
+git clone https://github.com/ranjeet5555/text-to-image-stable-diffusion.git
 cd text-to-image-stable-diffusion
 
 ### 2. Install Required Libraries and Dependencies
