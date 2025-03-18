@@ -173,14 +173,14 @@ text-to-image/
 ---
 
 ## 📋 How to Use
-1.**Prompt Entry**: Run the script and enter your custom text prompt.
-2.**Image Generation**: The model will generate an image based on your input.
-3.**Visualization**: The image will be displayed using matplotlib.
-4.**Optional Saving**: Modify the script to save images to generated_images/ directory.
+1.-**Prompt Entry**: Run the script and enter your custom text prompt.
+2.-**Image Generation**: The model will generate an image based on your input.
+3.-**Visualization**: The image will be displayed using matplotlib.
+4.-**Optional Saving**: Modify the script to save images to generated_images/ directory.
 
 ---
 
-## 📧 Contact
+### 📧 Contact
 
 - Email: ranjeetkumar4261770@gmail.com
 - GitHub: [ranjeet5555](https://github.com/ranjeet5555)
